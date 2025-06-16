@@ -5,7 +5,6 @@ permalink: reservations
 image: /uploads/lyon.jpeg
 description: Tournée 2025, Hexagone
 ---
-image=*/uploads/reservations/DILODATE2025.png*
 
 ## Samedi 21 Juin
 
