@@ -3,9 +3,9 @@ title: "Dates et réservations"
 layout: page
 permalink: reservations
 image: /uploads/lyon.jpeg
-description: Tournée 2024, Hexagone
+description: Tournée 2025, Hexagone
 ---
-![DILODATE2025](/uploads/reservations/DILODATE2025.png)
+image=*/uploads/reservations/DILODATE2025.png*
 
 ## Samedi 21 Juin
 
