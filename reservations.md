@@ -6,8 +6,6 @@ image: /uploads/lyon.jpeg
 description: Tournée 2025, Hexagone
 ---
 
-![tourneedilo2025](/uploads/reservations/DILOTOUR2025.png)
-
 ## Samedi 21 Juin
 
 **La Nuit des Forêts**
@@ -97,4 +95,6 @@ Arzon (56)
 21h
 
 *Jauge limitée / Réservation fortement conseillée*
-[Infos et Réservations](https://urls.fr/sdFUv7)
+[Infos et Réservations](https://urls.fr/sdFUv7
+
+![tourneedilo2025](/uploads/reservations/DILOTOUR2025.png)
