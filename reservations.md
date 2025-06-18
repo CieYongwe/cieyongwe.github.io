@@ -6,6 +6,8 @@ image: /uploads/lyon.jpeg
 description: Tournée 2025, Hexagone
 ---
 
+![tourneedilo2025](/uploads/reservations/DILOTOUR2025.png)
+
 ## Samedi 21 Juin
 
 **La Nuit des Forêts**
