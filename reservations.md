@@ -28,8 +28,8 @@ description: Tournée 2025, Hexagone
 
 ## Mardi 1er Juillet
 
-**Lac de Laffray**
- Plage Nord - Laffray (38)
+**Lac de Laffrey**
+ Plage Nord - Laffrey (38)
  
  21h
  
@@ -38,8 +38,8 @@ description: Tournée 2025, Hexagone
  
 ## Mercredi 2 Juillet
 
-**Lac de Laffray**
- Plage Nord - Laffray (38)
+**Lac de Laffrey**
+ Plage Nord - Laffrey (38)
  
  21h
  
@@ -95,6 +95,6 @@ Arzon (56)
 21h
 
 *Jauge limitée / Réservation fortement conseillée*
-[Infos et Réservations](https://urls.fr/sdFUv7
+[Infos et Réservations](https://urls.fr/sdFUv7)
 
 ![tourneedilo2025](/uploads/reservations/DILOTOUR2025.png)
