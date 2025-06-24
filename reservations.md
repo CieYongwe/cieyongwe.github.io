@@ -54,7 +54,7 @@ description: Tournée 2025, Hexagone
  22h
  
  *Jauge limitée / Réservation fortement conseillée*
- [Infos et Réservations](https://urls.fr/C_LkX0)
+ [Infos et Réservations](https://urlr.me/fYWQnJ)
 
 ## Jeudi 24 Juillet
 
