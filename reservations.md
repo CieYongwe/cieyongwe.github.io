@@ -58,7 +58,7 @@ description: Tournée 2025, Hexagone
 
 ## Jeudi 24 Juillet
 
-**Lac de Triouzoune**
+**Camping Port de Neuvic**
  Neuvic (19)
  
  21h
@@ -66,9 +66,19 @@ description: Tournée 2025, Hexagone
 *Jauge limitée / Réservation fortement conseillée*
 [Infos et Réservations](https://urls.fr/uTF7dw)
 
+## Vendredi 25 Juillet
+
+**Restaurant Le Maury**
+ Liginiac (19)
+ 
+ 21h
+ 
+*Jauge limitée / Réservation fortement conseillée*
+[Infos et Réservations](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-spectacle-flottant-a-liginiac-le-25-07)
+
 ## Dimanche 27 Juillet
 
-**Lac de Triouzoune**
+**Camping Port de Neuvic**
 Neuvic (19)
 
 21h
