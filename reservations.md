@@ -3,108 +3,39 @@ title: "Dates et réservations"
 layout: page
 permalink: reservations
 image: /uploads/lyon.jpeg
-description: Tournée 2025, Hexagone
+description: Tournée 2025, Guyane
 ---
 
-## Samedi 21 Juin
+## Vendredi 24 Octobre
 
-**La Nuit des Forêts**
- Parking du lac 33121 Carcans
+**Roura**
+ Dégrad du Bourg
  
- 20h30
+ 18h
  
  *Jauge limitée / Réservation conseillée*
-[Infos et Réservations](https://urls.fr/lI2wqC)
+[Infos et Réservations](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-spectacle-flottant-a-roura-le-24-octobre)
 
-## Vendredi 27 Juin
+## Samedi 25 Ocotbre
 
-**Festival Beleza**
- Digne Les Bains (04)
+**Nouvel an Hmong**
+ Au dégrad de Cacao
  
- 21h
+ 18h
  
 *Jauge limitée / Réservation conseillée*
-[Infos et Réservations](https://urls.fr/4kMAv3)
+[Infos et Réservations](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-spectacle-flottant-a-cacao-le-25-octobre)
 
-## Mardi 1er Juillet
+## Mercredi 29 Octobre
 
-**Lac de Laffrey**
- Plage Nord - Laffrey (38)
+**Festival Maroni en Scène**
+ Paddock - Saint Laurent du Maroni
  
- 21h
+ 20h
  
- *Jauge limitée / Réservation fortement conseillée*
- [Infos et Réservations]( https://urls.fr/6qIflC)
+ *Jauge limitée / Pas de réservation mais nous vous invitons à venir en amont pour être sûr d'avoir un casque*
+ *Nombreux spectacles et animations dans la journée dans le cadre du festival*
  
-## Mercredi 2 Juillet
-
-**Lac de Laffrey**
- Plage Nord - Laffrey (38)
  
- 21h
- 
- *Jauge limitée / Réservation fortement conseillée*
- [Infos et Réservations](https://urls.fr/ltwA_j)
 
-## Vendredi 4 Juillet
-
-**Festival Belledonne en Cirque**
- Revel (38)
- 
- 22h
- 
- *Jauge limitée / Réservation fortement conseillée*
- [Infos et Réservations](https://urlr.me/fYWQnJ)
-
-## Jeudi 24 Juillet
-
-**Camping Port de Neuvic**
- Neuvic (19)
- 
- 21h
- 
-*Jauge limitée / Réservation fortement conseillée*
-[Infos et Réservations](https://urls.fr/uTF7dw)
-
-## Vendredi 25 Juillet
-
-**Restaurant Le Maury**
- Liginiac (19)
- 
- 21h
- 
-*Jauge limitée / Réservation fortement conseillée*
-[Infos et Réservations](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-spectacle-flottant-a-liginiac-le-25-07)
-
-## Dimanche 27 Juillet
-
-**Camping Port de Neuvic**
-Neuvic (19)
-
-21h
-
- *Jauge limitée / Réservation fortement conseillée*
- [Infos et Réservations](https://urls.fr/1bYR8o)
- 
-## Mercredi 30 Juillet
-
-**Plage de Port Lenn**
-Arzon (56)
-
-21h
-
-*Jauge limitée / Réservation fortement conseillée*
-[Infos et Réservations](https://urls.fr/A_Ojws)
-
-
-## Jeudi 31 Juillet
-
-**Plage de Port Lenn**
-Arzon (56)
-
-21h
-
-*Jauge limitée / Réservation fortement conseillée*
-[Infos et Réservations](https://urls.fr/sdFUv7)
-
-![tourneedilo2025](/uploads/reservations/DILOTOUR2025.png)
+![tourneedilo2025](/uploads/reservations/DiloGuyane2025.png)
