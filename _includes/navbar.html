@@ -7,6 +7,7 @@
                 href="{% if page.layout == 'default' %}{{site.url}}{{site.baseurl}}/#{% else %}{{site.url}}{{site.baseurl}}/{% endif %}">
                 <!-- <strong>{{site.title}}</strong> -->
                 <img src="{{site.url}}{{site.baseurl}}{{site.logo}}"/>
+                <span style="padding:5px">COMPAGNIE YONGWE</span>
             </a>
             <div class="navbar-burger" data-target="navbar-menu">
                 <span></span>
@@ -22,19 +23,36 @@
             </div> -->
             <!-- navbar items | right side -->
             <div class="navbar-end">
-                <a class="navbar-item {% if page.layout == 'home' %}is-active{% endif %}"
-                    href="{% if page.layout == 'default' %}{{site.url}}{{site.baseurl}}/#{% else %}{{site.url}}{{site.baseurl}}/{% endif %}">CIE YONGWE</a>
-                <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/dilo">DILO</a>
-                <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/reservations">TOURNEE</a>
                 <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/artistes">QUI SOMMES-NOUS?</a>
-                <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/telechargements">TELECHARGEMENTS</a>
-                <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/#contact">CONTACT</a>
+                <div class="navbar-item has-dropdown is-hoverable"> 
+                    <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/#creations">CRÉATIONS</a>
+                    <div class="navbar-dropdown has-background-black is-left">
+                        <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/dilo">Dilo</a>
+                        <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/l-oreille-voit-l-oeil-ecoute">L'oreille voit, l'oeil écoute</a>
+                        <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/back-danbwa">Back Danbwa</a>
+                    </div>
+                </div>  
+                <div class="navbar-item has-dropdown is-hoverable"> 
+                    <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/#action-culturelle">ACTION CULTURELLE</a>
+                    <div class="navbar-dropdown has-background-black is-left">
+                        <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/folklore-imaginaire">Folklore Imaginaire</a>
+                        <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/creation-en-pays-d-auge">Création en pays d'Auge</a>
+                        <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/paroles-de-paysages">Paroles de paysages</a>
+                        <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/parcours">Parcours</a>
+                    </div>
+
+                </div>
+                <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/calendrier">CALENDRIER</a>
+                <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/gallerie">GALLERIE</a>
+                <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/pros">PROS</a>
+                <a class="navbar-item" href="#contact">CONTACT</a>
             </div>
 
         </div>
     </div>
 </nav>
 <!-- Bulma Navbar JS -->
+
 <script>
     document.addEventListener('DOMContentLoaded', function () {
         /* Get all "navbar-burger" elements */
@@ -52,6 +70,8 @@
                     $target.classList.toggle('is-active');
                 });
             });
-        }
+        };
+        // close menu on item click
+        document.querySelectorAll("a.navbar-item").forEach(e=>e.addEventListener("click",()=>document.querySelector('.navbar-burger').click()))
     });
 </script>
