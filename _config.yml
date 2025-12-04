@@ -2,7 +2,7 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'https://centime.github.io/cieyongwe.github.io/'
+url: 'https://cieyongwe.com'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 'https://cieyongwe.com'
 
@@ -66,3 +66,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
