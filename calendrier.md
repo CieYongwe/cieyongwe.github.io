@@ -22,7 +22,7 @@ description: Tournée Guyane, Hexagone
 
 30 et 31/7 **DILO/Plage de Port Lenn** Arzon (56)
 
-24 et 27/7 **DILO/LAC de Triouzoune** Neuvic (19)
+24 et 27/7 **DILO/Lac de Triouzoune** Neuvic (19)
 
 12/7 **L'Oreille voit, l'Oeil écoute/Festival de l'eau** St Aubin de Bonneval (61)
 
@@ -38,7 +38,7 @@ description: Tournée Guyane, Hexagone
 
 21/06 **DILO/La Nuit des Fôrets** Carcans (33)
 
-Du 2 au 13/8 **PARCOURS/Quartier de Perseigne** Alençon (61)
+Du 2 au 13/6 **PARCOURS/Quartier de Perseigne** Alençon (61)
 
 
 ### Tournée 2024
@@ -129,7 +129,7 @@ Du 2 au 13/8 **PARCOURS/Quartier de Perseigne** Alençon (61)
 
 29 **DILO/Prog Mairie de Mana** (Guyane)
 
-Novembre :
+## Novembre 
 
 4 **DILO/Festival du Carbet des Associations** St Laurent du Maroni (Guyane)
 
