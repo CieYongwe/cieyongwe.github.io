@@ -3,7 +3,7 @@ title: "Dates et réservations"
 layout: page
 permalink: calendrier
 image: /uploads/lyon.jpeg-1024x.jpg-50p.jpg
-description: Tournée 2025, Hexagone
+description: Tournée Guyane, Hexagone
 ---
 
 ### Tournée 2025
