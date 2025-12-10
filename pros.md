@@ -23,11 +23,6 @@ description: "Dossiers et outils de communication"
  text="Affiche du spectacle (PDF)"
 %}
 
-{% include button.html
- url="/uploads/pdf/calendrier-dilo.pdf"
- text="Photo-calendrier 2023 (PDF)"
-%}
-
 
 ## Back Danbwa
 
