@@ -10,6 +10,10 @@ Amis de toujours, Clément Beguet (musicien) et Mehdi Meskini (poète slameur) o
 
 En 2021 ils décident de créer la Compagnie Yongwé pour revenir au duo des origines. Portés par l’envie d’amener le spectaculaire dans des lieux impromptus et d’échanger avec le public sur leurs rapports aux mondes, ils souhaitent créer des spectacles transdisciplinaires où cohabitent les notions de sensible, de conviction, d’incongru.
 
+Ils seront rejoint rapidement par Robin Mazer, qui officie dans le domaine du son depuis 2010. Leurs créations s'accompagnent également de "projet en territoire". Ecouter les mots, les sons, les souvenirs, les impressions, les silences... Les enregistrer, s'en inspirer et créer à partir de ces matières.
+
+Fort de ces rencontres, de nouvelles idées émèrgent et de nouvelles collaborations sont en construction... Nous vous en tiendrons informé très bientôt.
+
 
 
 ## L’équipe Yongwé
