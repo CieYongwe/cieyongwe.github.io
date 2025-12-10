@@ -20,7 +20,7 @@ Fort de ces rencontres, de nouvelles idées émèrgent et de nouvelles collabora
 
 
 {% include text-image.html 
-image="/uploads/mehdi-photo.jpeg-1024x.jpg-50p.jpg"
+image="/uploads/qui-sommes-nousA.jpeg"
 text="
 
 ## Bureau :
@@ -34,9 +34,11 @@ text="
 
 ## Conception artistique :
 
-**Mehdi Meskini**, poésicien
+**Mehdi Meskini**
 
-**Clément Béguet**, musicteur
+**Clément Béguet**
+
+**Robin Mazer**
 "
 text-align="left"
 %}
@@ -44,27 +46,29 @@ text-align="left"
 
 
 {% include image-text.html 
-image="/uploads/photo-clement.png-1024x.jpg-50p.jpg"
+image="/uploads/qui-sommes-nousB.jpg"
 text="
 ## Collaborateurs :
 
-**Robinio**, sonificateur
+**Julie Casery**, lumière
 
-**Julie Casery**, luminatrice
+**Pascal Larçonnier**, son et construction
 
-**Pascal Larçonnier**, sonobricolo
+**Damien Toillon**, artiste peintre
 
-**Damien Toillon**, peinturtiste
+**Marjorie Delle-Case**, regard extérieur
 
-**Marjorie Delle-Case**, musicomédienne
+**Anahita Gohari**, regard extérieur
 
-**Anahita Gohari**, comédieuse en scène
+**Sophie Roussel**, costumière
 
-**Sophie Roussel**, cousturmière
+**Salim Nakhouia**, assistant casque
 
-**Salim Nakhouia**, djducteur
+**Ondine Rux**, créatrice livret texte
 
-**Ondine Rux**, dessinatoueuse
+**Anne Meyer**, regard extérieur
+
+**Léo Beziers**, son
 "
 text-align-2="right"
 %}
