@@ -20,14 +20,14 @@ Comment refléter les liens si forts qui unissent, en Amazonie, l’Homme à l�
 
 Dans le décor naturel, dans le texte, dans la création sonore : « dilo », « l’eau » en créole Guyanais, est au coeur de cette création, un spectacle se poésie musicale joué sur une scène flottante, mêlant poésie, musique et création sonore.
 
-*Dilo.
+*"Dilo.
 J'ai dit l'Eau.
 En Guyane partout.
 mais où est-elle née ?
 Où ira-t-elle ?
 Et qui la racontera ?
 Une histoire parmi plein...
-Dilo.*
+Dilo."*
 "
 %}
 
@@ -42,7 +42,7 @@ De leurs échanges émerge un texte poétique, appuyé par une composition music
 Assis sur la berge et muni de casques audio, à travers leur attente flottante, le public se laisse conter l’eau de la Guyane, ses histoires et ses démons. ll se laisse embarquer dans les délires de plus en plus hallucinés de deux hommes isolés dans une immensité d’eau, dans une Amazonie envahissante.
 Cours fleuve cours
 
-*Toi qui en dis long, sur tout ton parcours, sur toutes les façons qu'a la vie autour de profiter de ton cours, fleuve, cours.*
+*"Toi qui en dis long, sur tout ton parcours, sur toutes les façons qu'a la vie autour de profiter de ton cours, fleuve, cours."*
 "
 image="/uploads/dilo-papaichton.jpg-1024x.jpg-50p.jpg"
 %}
@@ -52,7 +52,7 @@ image="/uploads/dilo-papaichton.jpg-1024x.jpg-50p.jpg"
 Il s’agit ici de proposer une expérience intimiste au spectateur, alors même qu'il est plongé dans un cadre naturel, au bord de l'eau. 
 
 Une scène flottante, surplombée par un dôme géodésique en bois, a été conçue pour cette création. Cette « Bulle à
-Spectacles » flottante est démontable et transportable, ce qui a permis au spectacle en 2022 d'être joué au plus proche du
+Spectacles » flottante est démontable et transportable, ce qui a permis au spectacle depuis 2022 d'être joué au plus proche du
 public Guyanais, en pirogue et par la route.
 
 Le public, sur la rive, assiste muni de casques audio sans fil àune représentation proposée sur l’eau, mêlant sons, texte et musique, dans des espaces naturels constituant des théâtres aquatiques et de verdure.
@@ -96,6 +96,7 @@ text-align="text-left"
 Cette première création professionnelle de la Compagnie Yongwé a bénéficié du soutien de la DCJS de Guyane, du Centre Nationel de la Musique, de la Collectivité Territoriale de Guyane, et de la Scène Conventionnée Théâtre de Macouria
 
 ![affiche du spectacle dilo](/uploads/affiche-web-dilo.jpg-1024x.jpg-50p.jpg)
+
 
 
 
