@@ -46,7 +46,7 @@ text-align="left"
 
 
 {% include image-text.html 
-image="/uploads/qui-sommes-nousB.jpg"
+image="/uploads/Logo.png"
 text="
 ## Collaborateurs :
 
