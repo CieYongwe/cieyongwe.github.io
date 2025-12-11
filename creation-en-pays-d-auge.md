@@ -38,9 +38,9 @@ la musique. Par le biais des restitutions, nous offrons la possibilité aux habi
 image="/uploads/OreilleOeil.jpeg-1024x.jpg-50p.jpg"
 text="
 ## L'oreille voit l'oeil écoute
-Résultat de ce projet de territoire, L'oreille voit l'oeil écoute à pris la forme d’une représentation mêlant témoignages, création sonore et poétique ainsi que musique live.
+Résultat de ce projet de territoire, "L'oreille voit l'oeil écout"e a pris la forme d’une représentation mêlant témoignages, création sonore et poétique ainsi que musique live.
 
-Cette forme hybride et légère, à la frontière entre podcast radio et spectacle vivant permet de mêler le regard de plusieurs générations sur un territoire et les musiques et les mots qu’ils nous ont inspirés.
+Cette forme hybride et légère, à la frontière entre podcast radio et spectacle vivant permet de mêler le regard de plusieurs générations sur un territoire et les musiques et les mots qu’ils nous a inspirés.
 "
 %}
 
