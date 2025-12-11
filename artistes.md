@@ -20,7 +20,7 @@ Fort de ces rencontres, de nouvelles idées émèrgent et de nouvelles collabora
 
 
 {% include text-image.html 
-image="/uploads/qui-sommes-nousA.jpeg"
+image="/uploads/Note-de-musique.jpeg"
 text="
 
 ## Bureau :
