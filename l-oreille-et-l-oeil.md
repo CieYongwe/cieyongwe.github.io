@@ -19,7 +19,7 @@ Pour ce projet nous sommes allés à la rencontre d’habitants,
 et notamment d’anciens agriculteurs résidant en EHPAD. Le collectage de leurs récits de vie a été
 pour nous l’opportunité de faire émerger des témoignages autour des transformations sociales dans le
 paysage rural et les pratiques agricoles.
-"L’oreil voit l'oeil écoute" a pris la forme d’une représentation mêlant témoignages, création sonore et
+\"L’oreille voit l'oeil écoute\" a pris la forme d’une représentation mêlant témoignages, création sonore et
 poétique.
 
 Cette forme hybride et légère, à la frontière entre podcast radio et spectacle vivant permet de mêler le
