@@ -9,7 +9,7 @@ description: Dossiers et outils de communication
 ## Dilo
 
 {% include button.html
- url="/uploads/pdf/dossier-diffusion-dilo.pdf"
+ url="/uploads/pdf/Dossier-diffusion-Dilo.pdf"
  text="Dossier de Diffusion (PDF)"
 %}
 
