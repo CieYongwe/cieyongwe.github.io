@@ -2,7 +2,7 @@
 title: "Galerie"
 layout: page
 permalink: gallerie
-image: /uploads/galeire.jpeg
+image: /uploads/galerie.jpeg
 description: "Images de vie et créations"
 ---
 
