@@ -1,5 +1,5 @@
 ---
-title: "Gallerie"
+title: "Galerie"
 layout: page
 permalink: gallerie
 image: /uploads/Pro.jpeg-1024x.jpg-50p.jpg
