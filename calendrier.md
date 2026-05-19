@@ -10,7 +10,7 @@ description: Tournée Guyane, Hexagone
 
 ## Mai
 
-23/05 **DILO/Mar du Paradal/Festival Résurgence** 21h  Soumont 34
+23/05 **DILO/Mar du Pradal/Festival Résurgence** 21h  Soumont 34
 
 <a class='button is-black is-rounded is-outlined is-uppercase has-text-weight-normal' href=' https://www.festival-resurgence.fr/la-saison/la-saison-2025-2026/evenement/histoires-d-eau-en-lodevois-larzac'>Info et réservation</a>
 
