@@ -10,7 +10,7 @@ description: Tournée Guyane, Hexagone
 
 ## Mai
 
-23/05 **DILO/Mar du Pradal/Festival Résurgence** 21h  Soumont 34
+23/05 **DILO/Mare du Pradal/Festival Résurgence** 21h  Soumont 34
 
 <a class='button is-black is-rounded is-outlined is-uppercase has-text-weight-normal' href=' https://www.festival-resurgence.fr/la-saison/la-saison-2025-2026/evenement/histoires-d-eau-en-lodevois-larzac'>Info et réservation</a>
 
@@ -18,6 +18,21 @@ description: Tournée Guyane, Hexagone
 
 30/07 **DILO/lac de Ceihles-et-Rocozels** Com com du Grand Orb
 
+Info à venir
+
+## Août
+
+4/08 **DILO/Les Gayeulles/AU Parc des Bois** 21h Rennes
+
+<a class='button is-black is-rounded is-outlined is-uppercase has-text-weight-normal' href='https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-rennes-mardi-4-aout-2026'>Info et réservation</a>
+
+5/08 **DILO/Les Gayeulles/AU Parc des Bois** 21h Rennes
+
+<a class='button is-black is-rounded is-outlined is-uppercase has-text-weight-normal' href='https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-rennes-mercredi-5-aout-2026'>Info et réservation</a>
+
+6/08 **DILO/Les Gayeulles/AU Parc des Bois** 21h Rennes
+
+<a class='button is-black is-rounded is-outlined is-uppercase has-text-weight-normal' href=' https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-rennes-jeudi-6-aout-2026'>Info et réservation</a>
 
 
 ### Tournée 2025
