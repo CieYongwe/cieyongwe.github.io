@@ -6,6 +6,20 @@ image: /uploads/lyon.jpeg-1024x.jpg-50p.jpg
 description: Tournée Guyane, Hexagone
 ---
 
+### Tournée 2026
+
+## Mai
+
+23/05 **DILO/Mar du Paradal/Festival Résurgence** Soumont 34
+
+21h
+
+## Juillet
+
+30/07 **DILO/lac de Ceihles-et-Rocozels** Com com du Grand Orb
+
+
+
 ### Tournée 2025
 
 ## Octobre
