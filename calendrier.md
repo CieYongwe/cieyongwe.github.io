@@ -16,7 +16,7 @@ description: Tournée Guyane, Hexagone
 
 ## Juillet
 
-30/07 **DILO/lac de Ceihles-et-Rocozels** 20h30 Fête de l'eau et de la Nature Grand Orb 34
+30/07 **DILO/Plan d'eau du Bouloc** 20h30 Fête de l'eau et de la Nature à Ceilhes et Rocozels 34
 
 <a class='button is-black is-rounded is-outlined is-uppercase has-text-weight-normal' href=' https://www.grandorb.fr/Sortir/Agenda/L-Estivale-Grand-Orb/Fete-de-l-eau-et-de-la-nature-a-Ceilhes-et-Rocozels/10692.html'>Info et réservation</a>
 
