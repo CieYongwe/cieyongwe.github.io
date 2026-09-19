@@ -157,6 +157,12 @@ none;
 }
 
 #page-section {max-width: 100%}
+
+p {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
 a.button {
     max-width: 100%;
     white-space: pre-wrap; /* CSS3 */    
