@@ -1,6 +1,6 @@
 ---
 title: Ah! Ma Zone
-description: Festival
+description: Festival itinérant
 layout: page
 image: /uploads/julie.png
 permalink: ah-ma-zone
