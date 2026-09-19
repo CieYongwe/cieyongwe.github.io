@@ -177,6 +177,8 @@ a.button {
 .calendrier #page-section h3 {
   text-align: left;
   text-transform: uppercase;
+  max-width: 1000px;
+  margin: auto;
 }
 
 /* all but the first h3 */
