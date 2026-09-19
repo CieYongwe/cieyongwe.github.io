@@ -5,17 +5,6 @@ layout: home
 <!-- Selection d'images pour le background slider à modifier dans /_data/bg-slider-images.yml  -->
 
 
-{% include button.html
- url="/ah-ma-zone"
- text="Festival Ah! Ma Zone"
-%}
-
-{% include button.html
- url="/calendrier"
- text="Dates et Réservations"
-%}
-
-
 ## Notre compagnie
 
 Yongwé est une compagnie de spectacles vivants basée à Kourou, avec un pied en Guyane et l’autre en Normandie. Découvrez ici les spectacles en tournée et en création, réservez pour les prochaines dates, découvrez nos projets en territoire.
