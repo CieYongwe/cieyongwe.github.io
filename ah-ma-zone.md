@@ -24,7 +24,7 @@ De révélations en aveux, au cours de la cérémonie, se dessineront les raison
 
 
 {% include image-text.html 
-image="/uploads/BackdanbwaB.jpg"
+image="/uploads/afficheback.jpg"
 text="
 
 
