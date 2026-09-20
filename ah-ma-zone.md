@@ -32,6 +32,7 @@ text="
 
 Ce spectacle de rue musical et théâtral plonge le public dans une veillée étrange, dans la Guyane de 2055. Une fable dystopique
 abordant les marronnages futurs. Spectacle inédit : sortie de création dans le cadre du festival.
+
 Théâtre et musique
 Durée : 1h15'
 A partir de 1O ans
