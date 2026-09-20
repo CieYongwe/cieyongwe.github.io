@@ -30,8 +30,11 @@ text="
 
 ## LA DRAMATURGIE : COLONIALISMES ET NÉO-MARRONNAGE
 
-Et si, à l’aune des grands changements climatiques terriens, les rapports Nord-Sud se trouvaient bouleversés ? Et si l’Europe, croulant sous le poids des catastrophes naturelles, tournait un regard envieux vers ses anciennes colonies ? Et si la forêt Amazonienne, sa faune et sa flore opulentes, son extra-humidité, si l’Enfer vert d’hier devenait le nouvel Eldorado climatique ? 
-La « métropole » reproduirait-elle alors son histoire sanglante ? Qu’aurait-elle appris de son passé ?
+Ce spectacle de rue musical et théâtral plonge le public dans une veillée étrange, dans la Guyane de 2055. Une fable dystopique
+abordant les marronnages futurs. Spectacle inédit : sortie de création dans le cadre du festival.
+Théâtre et musique
+Durée : 1h15'
+A partir de 1O ans
 
 
 
