@@ -174,16 +174,33 @@ a.button {
 #contact-button{ white-space:inherit; }
 
 
+/* CALENDRIER SEPARATORS */
 .calendrier #page-section h3 {
   text-align: left;
   text-transform: uppercase;
   max-width: 1000px;
   margin: auto;
 }
-
 /* all but the first h3 */
 .calendrier #page-section p+h3 {
   margin-top: 4em !important;
   border-top: 3px solid grey;
   padding-top: 1.1em;
 }
+
+
+/* CONTENT JUSTIFY RULES EXCEPTIONS */
+.content p {
+  text-align: justify;
+}
+.pros .content p, 
+.calendrier .content p, 
+.artistes .content p, 
+.l-oreille-voit-l-oeil-ecoute .content #liens-découte+p,
+.folklore-imaginaire .content #productions+p,
+.creation-en-pays-d-auge .content section+p,
+.parcours .content #lien-découte+p
+{
+  text-align: inherit;
+}
+
