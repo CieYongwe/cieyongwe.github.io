@@ -8,19 +8,13 @@ permalink: ah-ma-zone
 
 
 
-{% include text-image.html 
-image="/BackdanbwaA.JPG"
-text="
 
 
-## NOTE D’INTENTION 
-Au cœur de la forêt guyanaise, dans un proche futur. 
-Le public est plongé en pleine veillée communautaire, au sein d’un Quilombo. Ses membres, néo-Marrons, exilés climatiques et économiques internationaux, sont réfugiés en Amazonie, cachés “anba fèy” après s’être heurtés aux forteresses de l’Occident xénophobe. 
-Griot des temps futurs, gourou révolutionnaire, leur leader reçoit ce soir de veillée la visite inattendue d’un ancien ami. Ils ne se sont pas vus depuis dix ans. La nuit entière portera leurs chants et leurs souvenirs, dont les membres de la communauté seront témoins. 
-De révélations en aveux, au cours de la cérémonie, se dessineront les raisons de leur présence et les contours d’un passé confus. 
 
-"
-%}
+## FESTIVAL AH! MA ZONE - EPISODE 1
+La Compagnie Yongwé entame le premier épisode du festival itinérant Ah! Ma Zone cette année sur les communes du littoral Guyanais. C'est l'occasion pour nous de présenter notre nouveau spectacle Back Danbwa, mais aussi d'inviter à chaque étape du festival d'autres artistes du territoire et d'ailleurs. Pour ce premier épisode nous invitons Women's Fire Show de la Cie Malabarouf.
+
+Rendez-vous ZAC Hibiscus près de la maison du Bois samedi à 20h, buvette sur place, restaurants à proximité. Entrée libre, en extérieur, sans réservation.
 
 
 {% include image-text.html 
@@ -28,7 +22,7 @@ image="/afficheback.jpg"
 text="
 
 
-## LA DRAMATURGIE : COLONIALISMES ET NÉO-MARRONNAGE
+## 20H BACK DANBWA
 
 Ce spectacle de rue musical et théâtral plonge le public dans une veillée étrange, dans la Guyane de 2055. Une fable dystopique
 abordant les marronnages futurs. Spectacle inédit : sortie de création dans le cadre du festival.
@@ -45,4 +39,4 @@ A partir de 1O ans
 
 
 
-Sortie en Octobre 2026
+Restez sur le coup les prochaines dates sortent très bientôt
