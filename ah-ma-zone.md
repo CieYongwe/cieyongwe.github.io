@@ -12,10 +12,22 @@ permalink: ah-ma-zone
 
 
 ## FESTIVAL AH! MA ZONE - EPISODE 1
+
+
 La Compagnie Yongwé entame le premier épisode du festival itinérant Ah! Ma Zone cette année sur les communes du littoral Guyanais. C'est l'occasion pour nous de présenter notre nouveau spectacle Back Danbwa, mais aussi d'inviter à chaque étape du festival d'autres artistes du territoire et d'ailleurs. Pour ce premier épisode nous invitons Women's Fire Show de la Cie Malabarouf.
 
 Rendez-vous ZAC Hibiscus près de la maison du Bois samedi à 20h, buvette sur place, restaurants à proximité. Entrée libre, en extérieur, sans réservation.
 
+{% include text-image.html 
+image="/afficheback.jpg"
+text="
+
+Puissante et engagé, porté par une équipe 100 % féminine, ce spectacle célèbre
+la force, la créativité et la détermination des femmes à travers une performance enflammée, rythmée et
+profondément visuelle.
+
+"
+%}
 
 {% include image-text.html 
 image="/afficheback.jpg"
@@ -31,12 +43,8 @@ Théâtre et musique
 Durée : 1h15'
 A partir de 1O ans
 
-
-
 "
 %}
-
-
 
 
 Restez sur le coup les prochaines dates sortent très bientôt
