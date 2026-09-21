@@ -2,14 +2,14 @@
 title: Ah! Ma Zone
 description: Festival itinérant
 layout: page
-image: /uploads/visuel1.png
+image: /visuel1.png
 permalink: ah-ma-zone
 ---
 
 
 
 {% include text-image.html 
-image="/uploads/BackdanbwaA.JPG"
+image="/BackdanbwaA.JPG"
 text="
 
 
@@ -24,7 +24,7 @@ De révélations en aveux, au cours de la cérémonie, se dessineront les raison
 
 
 {% include image-text.html 
-image="/uploads/afficheback.jpg"
+image="/afficheback.jpg"
 text="
 
 
