@@ -197,9 +197,11 @@ a.button {
 .calendrier .content p, 
 .artistes .content p, 
 .l-oreille-voit-l-oeil-ecoute .content #liens-découte+p,
+.back-danbwa .content section+p,
 .folklore-imaginaire .content #productions+p,
 .creation-en-pays-d-auge .content section+p,
-.parcours .content #lien-découte+p
+.parcours .content #lien-découte+p,
+.ah-ma-zone .content section+p
 {
   text-align: inherit;
 }
