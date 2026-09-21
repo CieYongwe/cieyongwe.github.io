@@ -22,18 +22,6 @@ Rendez-vous ZAC Hibiscus près de la maison du Bois samedi à 20h, buvette sur p
 image="/afficheback.jpg"
 text="
 
-Puissante et engagé, porté par une équipe 100 % féminine, ce spectacle célèbre
-la force, la créativité et la détermination des femmes à travers une performance enflammée, rythmée et
-profondément visuelle.
-
-"
-%}
-
-{% include image-text.html 
-image="/afficheback.jpg"
-text="
-
-
 ## 20H BACK DANBWA
 
 Ce spectacle de rue musical et théâtral plonge le public dans une veillée étrange, dans la Guyane de 2055. Une fable dystopique
@@ -42,6 +30,20 @@ abordant les marronnages futurs. Spectacle inédit : sortie de création dans le
 Théâtre et musique
 Durée : 1h15'
 A partir de 1O ans
+
+"
+%}
+
+{% include image-text.html 
+image="/malabarouf.jpeg"
+text="
+
+
+## 21H30 Women's Fire Show
+
+Puissante et engagé, porté par une équipe 100 % féminine, ce spectacle célèbre
+la force, la créativité et la détermination des femmes à travers une performance enflammée, rythmée et
+profondément visuelle.
 
 "
 %}
