@@ -8,6 +8,10 @@ description: Tournée Guyane, Hexagone
 
 ### Tournée 2026
 
+## Octobre
+
+04/10 **Festival Ah! Ma Zone/Carbet des Associations** 19h Saint Laurent du Maroni
+
 ## Septembre
 
 26/09 **Festival Ah! Ma Zone/ZAC Hibiscus** 20h Cayenne
