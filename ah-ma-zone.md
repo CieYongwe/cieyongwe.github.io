@@ -2,7 +2,7 @@
 title: Ah! Ma Zone
 description: Festival itinérant
 layout: page
-image: /visuel1.png
+image: /Ahmazone2.png.png
 permalink: ah-ma-zone
 ---
 
@@ -11,21 +11,23 @@ permalink: ah-ma-zone
 
 
 
-## FESTIVAL AH! MA ZONE - EPISODE 1
+## FESTIVAL AH! MA ZONE -
 
+Pour cette première édition, la Cie Yongwé vous propose un programme conçu au fil de l’eau, comme un voyage spontané à travers le territoire et en collaboration avec des acteurs associatifs locaux. Les dates et programmes sont annoncés 7 jours avant chaque événement.
+Notre ambition est de proposer des spectacles en divers lieux et de les rassembler pour une soirée
+ouverte à un public de tous âges. L'idée est de proposer une programmation culturelle diversifiée durant la saison estivale en Guyane, aux alentours d'octobre, afin d'attirer les familles, les jeunes et toute personne désireuse de découvrir des acteurs
+culturels.
 
-La Compagnie Yongwé entame le premier épisode du festival itinérant Ah! Ma Zone cette année sur les communes du littoral Guyanais. C'est l'occasion pour nous de présenter notre nouveau spectacle Back Danbwa, mais aussi d'inviter à chaque étape du festival d'autres artistes du territoire et d'ailleurs. Pour ce premier épisode nous invitons Women's Fire Show de la Cie Malabarouf.
-
-Rendez-vous ZAC Hibiscus près de la maison du Bois samedi à 20h, buvette sur place, restaurants à proximité. Entrée libre, en extérieur, sans réservation.
+Épisode 2 : Rendez vous le Dimanche 4 Octobre à 19h, au Carbet des Association à Saint Laurent du Maroni, buvette sur place, petite restauration, entrée libre, sans réservation.
 
 {% include text-image.html 
 image="/afficheback.jpg"
 text="
 
-## 20H BACK DANBWA
+## 19H BACK DANBWA
 
-Ce spectacle de rue musical et théâtral plonge le public dans une veillée étrange, dans la Guyane de 2055. Une fable dystopique
-abordant les marronnages futurs. Spectacle inédit : sortie de création dans le cadre du festival.
+Un groupe d'exilés climatiques, politiques et économiques vit caché au coeur de la forêt guyanaise. Leur leader, griot des temps futurs et gourou révolutionnaire reçoit un soir de veillée la visite inattendue d’ un ancien ami. Sabotage, cavales, rivalités amoureuses : de révélations en aveux, au cours de la cérémonie, se dessineront les
+raisons de leur présence et les contours d’un passé confus.
 
 Théâtre et musique
 Durée : 1h15'
@@ -35,18 +37,19 @@ A partir de 1O ans
 %}
 
 {% include image-text.html 
-image="/malabarouf.jpeg"
+image="/Incorrigibles.jpg"
 text="
 
 
-## 21H30 Women's Fire Show
+## 21H30 Incorrigibles
 
-Puissante et engagé, porté par une équipe 100 % féminine, ce spectacle célèbre
-la force, la créativité et la détermination des femmes à travers une performance enflammée, rythmée et
-profondément visuelle.
-
+Des femmes oubliées. Des corps sous contrôle. Des matricules. Entre 1859 et 1905, des centaines de femmes sont transportées au bagne de Guyane.
+INCORRIGIBLES fait surgir leur mémoire à travers une danse physique et incarnée. Les corps se soutiennent, s’effleurent, s’effondrent et résistent.
+Entre archives historiques et mouvement, la pièce fait résonner passé colonial et luttes actuelles. Un duo puissant et sensible inspiré d’un pan de l’Histoire méconnue.
+Durée : 45 minutes
+A partir de 8 ans
 "
 %}
 
 
-Restez sur le coup les prochaines dates sortent très bientôt
+Restez sur le coup, on vous dévoile les prochaines étapes du Festival très bientôt!
