@@ -21,7 +21,7 @@ culturels.
 ## Programme complet du festival
 
 {% include button.html
- url="/pdf/Amzprog.pdf"
+ url="/Amzprog.pdf"
  text="Programme Ah! Ma Zone (PDF)"
 %}
 
