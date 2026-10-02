@@ -12,6 +12,12 @@ description: Tournée Guyane, Hexagone
 
 04/10 **Festival Ah! Ma Zone/Carbet des Associations** 19h Saint Laurent du Maroni
 
+10/10 **Back Danbwa/La Grande Nuit du Théâtre/Place Monnerville** 21h30 Kourou
+
+17/10 **Festival Ah! Ma Zone/Sentier Lamirande** 18h30 Matoury
+
+21/10 **Festival Ah! Ma Zone/Place de la Mairie** 19h30 Roura
+
 ## Septembre
 
 26/09 **Festival Ah! Ma Zone/ZAC Hibiscus** 20h Cayenne
