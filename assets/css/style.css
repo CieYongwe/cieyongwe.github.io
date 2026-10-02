@@ -189,7 +189,7 @@ a.button {
 }
 
 
-/* CONTENT JUSTIFY RULES EXCEPTIONS */
+/* CONTENT JUSTIFY RULES EXCEPTIONS 
 .content p {
   text-align: justify;
 }
@@ -205,4 +205,4 @@ a.button {
 {
   text-align: inherit;
 }
-
+*/
