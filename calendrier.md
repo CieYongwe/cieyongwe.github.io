@@ -18,6 +18,8 @@ description: Tournée Guyane, Hexagone
 
 21/10 **Festival Ah! Ma Zone/Place de la Mairie** 19h30 Roura
 
+24/10 **Back Danbwa/Festival Radioaktif/Carbet Gangassa** 17h Kourou
+
 ## Septembre
 
 26/09 **Festival Ah! Ma Zone/ZAC Hibiscus** 20h Cayenne
