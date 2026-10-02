@@ -2,7 +2,7 @@
 title: Ah! Ma Zone
 description: Festival itinérant
 layout: page
-image: /uploads/pdf/Amz.pdf
+image: /uploads/Amzpage.jpg
 permalink: ah-ma-zone
 ---
 
@@ -27,6 +27,6 @@ culturels.
 
 ## Les dates du festival
 
-![Dates du Festival](/uploads/pdf/Amzdate.pdf)
+![Dates du Festival](/uploads/Amzdate.jpg)
 
 
